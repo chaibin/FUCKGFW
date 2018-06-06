@@ -32,7 +32,7 @@
 
 [谷歌浏览器低内核GoProxy ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-ipv6%E7%89%88) （2018年5月3日云端更新google ipv6 ip）
 
-[谷歌浏览器低内核GoAgent ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-ipv6%E7%89%88) （2018年5月3日云端更新google ipv6 ip）
+[谷歌浏览器低内核GoAgent ipv6版](https://gitlab.com/Alvin9999/free/wikis/goagent-ipv6%E7%89%88) （2018年5月3日云端更新google ipv6 ip）
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2018年4月29日云端更新Quic配置）
 
