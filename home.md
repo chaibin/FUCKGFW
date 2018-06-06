@@ -12,7 +12,7 @@
 
 **注意**：软件都是采用加密方式的，但为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等不仅仅会起干扰作用，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系。现在国外好用的免费杀毒软件也挺多的，网上一搜就有很多。如果翻墙插件被杀毒软件“误删”了或者默默地删掉了，是不能翻墙的，退出杀毒软件，重新解压下载的压缩包。,
 
-**选择指南**：有GoProxy ipv6版、GoAgent ipv6版、GoProxy Quic版、v2ray版、SSR版、PAC-ipv6、SkyZip版、赛风版、WuJie版、FreeGate版,可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。内存低于2G的电脑建议用[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)。还有[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93)可供选择，电脑、手机、平板都能使用。如果想自己搭建翻墙服务器，可以学习[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)或[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。
+**选择指南**：有GoProxy ipv6版、GoAgent ipv6版、GoProxy Quic版、v2ray版、SSR版、PAC-ipv6、SkyZip版、赛风版、WuJie版、FreeGate版,可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。内存低于2G的电脑建议用[火狐翻墙浏览器](https://gitlab.com/Alvin9999/free/wikis/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)。还有[直翻通道](https://gitlab.com/Alvin9999/free/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93)可供选择，电脑、手机、平板都能使用。如果想自己搭建翻墙服务器，可以学习[自建ss/ssr服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)或[自建v2ray服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。
 
 **视频下载**：除了谷歌浏览器GoProxy Quic版、GoProxy ipv6版无法下载超过32M的文件，其它版本都能下载超过32M以上的文件。
 
@@ -26,51 +26,51 @@
 
 ***
 
-[谷歌浏览器66高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年5月27日云端更新SSR版配置信息）
+[谷歌浏览器66高内核版](https://gitlab.com/Alvin9999/free/wikis/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年5月27日云端更新SSR版配置信息）
 
-[ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2018年4月2日更新一键配置ipv6脚本）
+[ipv6开启方法](https://gitlab.com/Alvin9999/free/wikis/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2018年4月2日更新一键配置ipv6脚本）
 
-[谷歌浏览器低内核GoProxy ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-ipv6%E7%89%88) （2018年5月3日云端更新google ipv6 ip）
+[谷歌浏览器低内核GoProxy ipv6版](https://gitlab.com/Alvin9999/free/wikis/goproxy-ipv6%E7%89%88) （2018年5月3日云端更新google ipv6 ip）
 
 [谷歌浏览器低内核GoAgent ipv6版](https://gitlab.com/Alvin9999/free/wikis/goagent-ipv6%E7%89%88) （2018年5月3日云端更新google ipv6 ip）
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2018年4月29日云端更新Quic配置）
 
-[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2018年4月19日云端更新v2ray版配置）
+[谷歌浏览器低内核v2ray版](https://gitlab.com/Alvin9999/free/wikis/v2ray%E7%89%88) （2018年4月19日云端更新v2ray版配置）
 
-[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2018年5月27日云端更新ip）
+[谷歌浏览器低内核SSR版](https://gitlab.com/Alvin9999/free/wikis/ssr%E7%89%88) （2018年5月27日云端更新ip）
 
-[谷歌浏览器低内核PAC-ipv6版](https://github.com/Alvin9999/new-pac/wiki/PAC-ipv6%E7%89%88) （2018年4月12日发布）
+[谷歌浏览器低内核PAC-ipv6版](https://gitlab.com/Alvin9999/free/wikis/pac-ipv6%E7%89%88) （2018年4月12日发布）
 
-[谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88) （2018年3月3日更新版本）
+[谷歌浏览器低内核SkyZip版](https://gitlab.com/Alvin9999/free/wikis/skyzip%E7%89%88) （2018年3月3日更新版本）
 
-[谷歌浏览器低内核赛风版](https://github.com/Alvin9999/new-pac/wiki/%E8%B5%9B%E9%A3%8E%E7%89%88) （2018年3月3日更新版本）
+[谷歌浏览器低内核赛风版](https://gitlab.com/Alvin9999/free/wikis/%E8%B5%9B%E9%A3%8E%E7%89%88) （2018年3月3日更新版本）
 
-[谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2018年5月3日云端更新GoProxy ipv6和GoAgent ipv6版google ipv6 ip）
+[谷歌浏览器低内核FreeGate和WuJie版](https://gitlab.com/Alvin9999/free/wikis/freegate%E5%92%8Cwujie%E7%89%88（2018年4月29日更新无界版本至18.02）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年5月27日云端更新SSR版配置信息）
+[火狐翻墙浏览器](https://gitlab.com/Alvin9999/free/wikis/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年5月27日云端更新SSR版配置信息）
 
-[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年5月29日更新YouTube代理）
+[直翻通道](https://gitlab.com/Alvin9999/free/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年5月29日更新YouTube代理）
 
-[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2018年5月12日更新）
+[谷歌镜像](https://gitlab.com/Alvin9999/free/wikis/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2018年5月12日更新）
 
-[自建SS/SSR服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2018年4月7日对教程细节方面进行补充和更新）
+[自建SS/SSR服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2018年4月7日对教程细节方面进行补充和更新）
 
-[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2018年4月19日对教程细节方面进行补充和更新）
+[自建v2ray服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2018年4月19日对教程细节方面进行补充和更新）
 
-[安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2018年4月9日更新无界一点通版本至4.3）
+[安卓手机版](https://gitlab.com/Alvin9999/free/wikis/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2018年4月9日更新无界一点通版本至4.3）
 
-[苹果手机翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2018年2月24日更新）
+[苹果手机翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2018年2月24日更新）
 
-[MAC翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年12月25日删除无效方法）
+[MAC翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91mac%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年12月25日删除无效方法）
 
-[平板电脑翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2018年2月4日更新）
+[平板电脑翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2018年2月4日更新）
 
-[Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95) （2018年5月30日增加Linux SSR 使用方法二）
+[Linux系统翻墙方法](https://gitlab.com/Alvin9999/free/wikis/linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95) （2018年5月30日增加Linux SSR 使用方法二）
 
-[实用网络小知识](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%9F%A5%E8%AF%86) （2018年4月26日更新）
+[实用网络小知识](https://gitlab.com/Alvin9999/free/wikis/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%9F%A5%E8%AF%86) （2018年4月26日更新）
 
-[数字安全手册](https://github.com/Alvin9999/new-pac/wiki/%E6%95%B0%E5%AD%97%E5%AE%89%E5%85%A8%E6%89%8B%E5%86%8C) （推荐两本关于网络安全的书籍）
+[数字安全手册](https://gitlab.com/Alvin9999/free/wikis/%E6%95%B0%E5%AD%97%E5%AE%89%E5%85%A8%E6%89%8B%E5%86%8C) （推荐两本关于网络安全的书籍）
 
 ***
 
