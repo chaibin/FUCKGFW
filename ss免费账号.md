@@ -9,9 +9,9 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 ### ===自己搭建SS/SSR或v2ray服务器教程===
 
-[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （很详细，适合新手）
+[自建ss/ssr服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （很详细，适合新手）
 
-[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （很详细，适合新手）
+[自建v2ray服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （很详细，适合新手）
 
 VPS推荐：
 
@@ -26,7 +26,7 @@ VPS推荐：
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
-免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以自己搭建服务器。如果现在没有搭建账号的需求，可以用word文档把教程内容复制并保存起来，以便将来使用。[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 
+免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以自己搭建服务器。如果现在没有搭建账号的需求，可以用word文档把教程内容复制并保存起来，以便将来使用。[自建ss/ssr服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 
 
 为保证每个用户都能获得一定的带宽资源，**单个用户限速150~200kb/s**。以下账号SSR客户端和SS客户端都能使用。如果使用ipv6账号，需要将自己的电脑开启ipv6网络，ipv6账号是为那些有ipv6这方面需求的用户提供的，一般的人用普通的ip即可。
 
@@ -70,17 +70,17 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 **其它翻墙方法**
 
-[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) 
+[谷歌镜像](https://gitlab.com/Alvin9999/free/wikis/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) 
 
-[windows系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki)
+[windows系统翻墙方法](https://gitlab.com/Alvin9999/free/wikis/home)
 
-[Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
+[Linux系统翻墙方法](https://gitlab.com/Alvin9999/free/wikis/linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
 
-[MAC翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
+[MAC翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91mac%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
 
-[ios翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)  
+[ios翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)  
 
-[安卓手机翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
+[安卓手机翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
 
 
 ***
