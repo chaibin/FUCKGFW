@@ -5,7 +5,7 @@
 
 永久免费。不用安装，无需设置，解压后使用。稳定、流畅、高速，长期更新。
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
+![](https://gitlab.com/Alvin9999/pac2/raw/master/%E5%9B%BE%E6%A0%87.PNG)
 
 
 **介绍**：GoProxy ipv6版、GoAgent ipv6版、GoProxy Quic版、v2ray版、SSR版、PAC-ipv6、SkyZip版、赛风版、WuJie版、FreeGate版，适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
@@ -73,11 +73,11 @@
 
 真心希望大家都能够突破网络封锁、获得真相，祝愿每位善良的人都能拥有一个美好的未来。
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/shenyun003.jpg)
+![](https://gitlab.com/Alvin9999/pac2/raw/master/shenyun003.jpg)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/1.JPG)
+![](https://gitlab.com/Alvin9999/pac2/raw/master/1.JPG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/2.JPG)
+![](https://gitlab.com/Alvin9999/pac2/raw/master/2.JPG)
 
 ***
 
