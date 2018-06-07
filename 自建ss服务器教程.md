@@ -19,7 +19,7 @@
 
 VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、稳定且性价比高，按小时计费，能够随时开通和删除服务器，新服务器即是新ip。
 
-vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器位置可选，kvm框架，2.5美元/月。如果以后这个vultr注册地址被墙了，那么就用翻墙软件打开，或者用[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)） 
+vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器位置可选，kvm框架，2.5美元/月。如果以后这个vultr注册地址被墙了，那么就用翻墙软件打开，或者用[ss/ssr免费账号](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)） 
 
 <a href="https://www.vultr.com/?ref=7048874"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
@@ -46,43 +46,43 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 **账号充值如图**：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp100.png)
+![](https://gitlab.com/Alvin9999/pac2/raw/master/pp100.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp101.png)
+![](https://gitlab.com/Alvin9999/pac2/raw/master/pp101.png)
 
 
 **开通服务器步骤如图**：
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程01.png)
+![](https://gitlab.com/Alvin9999/crp_up/raw/master/pac教程01.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程02.png)
+![](https://gitlab.com/Alvin9999/crp_up/raw/master/pac教程02.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程04.png)
+![](https://gitlab.com/Alvin9999/crp_up/raw/master/pac教程04.png)
 
 
 ### 选择vps操作系统时，不要选centos7系统！点击图中的CentOS几个字，会弹出centos6，然后选中centos6！entos7默认的防火墙可能会干扰ssr的正常连接！
 
 > 接下来这一步是开启vps的ipv6 ip，选填项。如果你的电脑系统可以用ipv6，那么可以勾选此项。大多数用户没有这个需求，但有一些用户可能会用到，所以补充了这部分内容。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssripv6-01.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/ssripv6-01.png)
 
 **开通服务器时，当出现了ip，不要立马去ping或者用xshell去连接，再等5分钟之后，有个缓冲时间。完成购买后，找到系统的密码记下来，部署服务器时需要用到。vps系统（推荐centos6）的密码获取方法如下图：**
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
+![](https://gitlab.com/Alvin9999/crp_up/raw/master/pac教程05.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程06.png)
+![](https://gitlab.com/Alvin9999/crp_up/raw/master/pac教程06.png)
 
 > 如果你开启了vps的ipv6，那么在后台的settings选项可以找到服务器的ipv6 ip。在部署SSR账号时，你用ipv6 ip就行。整个部署及使用过程中，记得把电脑系统开启ipv6喔。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssripv6-02.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/ssripv6-02.png)
 
 **删掉服务器步骤如下图**：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de4.PNG)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/de4.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de2.PNG)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/de2.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de5.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/de5.png)
 
 一个被墙ip的vps被删掉后，其ip并不会消失，会随机分配给下一个在这个服务器位置新建服务器的人，这就是为什么开新服务器会有一定几率开到被墙的ip。被墙是指在国内地区无法ping通服务器，但在国外是可以ping通的，vultr是面向全球服务，如果这个被墙ip被国外的人开到了，它是可以被正常使用的，半年或1年后这个被墙的ip可能会被国内防火墙解封，那么这就是一个良性循环。
 
@@ -105,23 +105,23 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 下载windows xshell软件并安装后，打开软件
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell11.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/xshell11.png)
 
 选择文件，新建
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell12.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/xshell12.png)
 
 随便取个名字，然后把你的服务器ip填上
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell13.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/xshell13.png)
 
 连接国外ip即服务器时，软件会先后提醒你输入用户名和密码，用户名默认都是root，密码是你购买的服务器系统的密码。
 
 ### 如果xshell连不上服务器，没有弹出让你输入用户名和密码的输入框，表明你开到的ip是一个被墙的ip，遇到这种情况，重新开新的服务器，直到能用xshell连上为止，耐心点哦！如果同一个地区开了多台服务器还是不行的话，可以换其它地区。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell14.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/xshell14.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/xshell2.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/xshell2.png)
 
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
@@ -144,25 +144,25 @@ wget -N --no-check-certificate https://softs.fun/Bash/ssr.sh && chmod +x ssr.sh 
 
 复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装，以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：bash ssr.sh
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/8.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/8.png)
 
 如上图出现管理界面后，**输入数字1来安装SSR服务端**。如果输入1后不能进入下一步，那么请退出xshell，重新连接vps服务器，然后输入快捷管理命令bash ssr.sh 再尝试。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/31.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/demo/31.png)
 
 根据上图提示，依次输入自己想设置的**端口和密码** (**密码建议用复杂点的字母组合，端口号为40-65535之间的数字**)，回车键用于确认
 
 注：关于端口的设置，总的网络总端口有6万多个，理论上可以任意设置，但不要以0开头！但是有的地区需要设置特殊的端口才有效，一些特殊的端口比如80、143、443、1433、3306、3389、8080。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/32.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/demo/32.png)
 
 如上图，选择想设置的**加密方式**，比如10，按回车键确认
 
 接下来是选择**协议插件**，如下图：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/11.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/11.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/41.PNG)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/demo/41.PNG)
 
 选择并确认后，会出现上图的界面，提示你是否选择兼容原版，这里的原版指的是SS客户端（SS客户端没有协议和混淆的选项），可以根据需求进行选择，演示选择y
 
@@ -171,30 +171,30 @@ wget -N --no-check-certificate https://softs.fun/Bash/ssr.sh && chmod +x ssr.sh 
 **注意：如果协议是origin，那么混淆也必须是plain；如果协议不是origin，那么混淆可以是任意的。有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略，有时候不混淆（plain）让其看起来像随机数据更好。（特别注意：tls 1.2_ticket_auth容易受到干扰！请选择除tls开头以外的其它混淆！！！）** 
 
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/33.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/demo/33.png)
 
 
 进行混淆插件的设置后，会依次提示你对设备数、单线程限速和端口总限速进行设置，默认值是不进行限制，个人使用的话，选择默认即可，即直接敲回车键。
 
 注意：关于限制设备数，这个协议必须是非原版且不兼容原版才有效，也就是必须使用SSR协议的情况下，才有效！
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/14.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/14.png)
 
 之后代码就正式自动部署了，到下图所示的位置，提示你下载文件，输入：y
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/15.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/15.png)
 
 耐心等待一会，出现下面的界面即部署完成：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/16.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/16.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/34.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/demo/34.png)
 
 根据上图就可以看到自己设置的SSR账号信息，包括IP、端口、密码、加密方式、协议插件、混淆插件，这些信息需要填入你的SSR客户端。如果之后想修改账号信息，直接输入快捷管理命令：bash ssr.sh 进入管理界面，选择相应的数字来进行一键修改。例如：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/22.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/22.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/23.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/23.png)
 
 **脚本演示结束。**
 
@@ -225,23 +225,23 @@ chmod +x bbr.sh
 
 复制并粘贴代码后，按回车键确认
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/18.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/18.png)
 
 如下图提示，按任意键继续部署
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/19.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/19.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/20.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/20.png)
 
 部署到上图这个位置的时候，等待3～6分钟
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/21.png)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/21.png)
 
 最后输入y重启服务器，如果输入y提示command not found ，接着输入reboot来重启服务器，确保加速生效，bbr加速脚本是开机自动启动，装一次就可以了。
 
 服务器重启成功并重新连接服务器后，输入命令lsmod | grep bbr  如果出现tcp_bbr字样表示bbr已安装并启动成功。如图：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/tcp_bbr.PNG)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/demo/tcp_bbr.PNG)
 
 ***
 
@@ -262,7 +262,7 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 **有了账号后，打开SSR客户端，填上信息，这里以windows版的SSR客户端为例子**：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/42.PNG)
+![](https://gitlab.com/Alvin9999/PAC/raw/master/demo/42.PNG)
 
 在对应的位置，填上服务器ip、服务器端口、密码、加密方式、协议和混淆，最后将浏览器的代理设置为（http）127.0.0.1和1080即可。账号的端口号就是你自己设置的，而要上网的浏览器的端口号是1080，固定的，谷歌浏览器可以通过 SwitchyOmega 插件来设置。
 
