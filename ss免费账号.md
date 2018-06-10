@@ -34,8 +34,9 @@ VPS推荐：
 
 **2018.6.6重要通知**：发布新项目地址。
 
+**2018.6.10**：更新服务器2和3。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3506.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3508.PNG)
 
 ***
 
