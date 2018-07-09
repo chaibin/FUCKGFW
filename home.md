@@ -17,7 +17,7 @@
 
 **温馨提醒**：由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。不要纠结于某一款软件，如果已经按照使用说明文档把该更新的都更新了，该排除的因素都排除了，还是不能翻墙的话，此时最好的选择就是换其它类型的软件。
 
-**2018年6月30日公告**：云端更SSR版配置信息。
+**2018年7月8日**：推荐YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)。
 
 ***
 
@@ -45,7 +45,7 @@
 
 [直翻通道](https://gitlab.com/Alvin9999/free/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年6月7日更新YouTube代理地址）
 
-[谷歌镜像](https://gitlab.com/Alvin9999/free/wikis/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2018年6月19日更新）
+[谷歌镜像](https://gitlab.com/Alvin9999/free/wikis/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2018年7月10日更新）
 
 [自建SS/SSR服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2018年6月28日更新）
 
