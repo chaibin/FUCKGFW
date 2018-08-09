@@ -29,7 +29,7 @@ VPS推荐：
 
 **2018年8月8日**：更新服务器1和2的端口。推荐YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)。
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/ssr3514.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3514.PNG)
 
 ***
 
