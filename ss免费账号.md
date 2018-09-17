@@ -27,7 +27,7 @@ VPS推荐：
 **禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！**为保证每个用户都能获得一定的带宽资源，**单个用户限速400kb/s**。以下账号SSR客户端和SS客户端都能使用。
 
 
-**2018年9月11日**：更新服务器1和2的端口。推荐YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)。
+**2018年9月17日**：服务器1故障，待修复。推荐YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ssr3516.PNG)
 
