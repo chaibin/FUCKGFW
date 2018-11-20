@@ -1,10 +1,10 @@
-**2018.11.20更新：更换SS/SSR部署脚本。**
+**2018.11.21：增加SS/SSR部署备用脚本。**
 
 **2018.9.1更新：vultr官方进行了调整，2.5美元套餐只提供ipv6，如果你用不了ipv6，那么你可以买3.5美元的套餐。**
 
 ***
 
-**不怕被封ip，因为vultr是折算成小时计费，且可以随时删除和开通服务器，新服务器就是新的ip。新开服务器只需要0.01美元，即使你运气非常不好，开了10台服务器才获得没有被墙的ip，总创建服务器成本也只有0.1美元，不到1块钱。开通服务器时，当出现了ip，不要立马去ping或者用xshell去连接，再等5分钟之后，有个缓冲时间。**
+不怕被封ip，因为vultr是折算成小时计费，且可以随时删除和开通服务器，新服务器就是新的ip。新开服务器只需要0.01美元，即使你运气非常不好，开了10台服务器才获得没有被墙的ip，总创建服务器成本也只有0.1美元，不到1块钱。开通服务器时，当出现了ip，不要立马去ping或者用xshell去连接，再等5分钟之后，有个缓冲时间。
 
 
 **自建ss/ssr教程很简单，整个教程分三步**：
@@ -132,13 +132,33 @@ vultr注册地址： http://www.vultr.com/?ref=7613018 （全球15个服务器�
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
 
-CentOS6/Debian6/Ubuntu14 ShadowsocksR一键部署管理脚本：
+**CentOS6/Debian6/Ubuntu14 ShadowsocksR一键部署管理脚本（2018.11.21更新）：**
+
+**脚本一（2018.11.20更新）**
 
 ***
 
 yum -y install wget
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+
+***
+
+**备用脚本二（2018.11.21更新）**
+
+**如果上面的脚本暂时用不了，可以用下面的备用脚本，备用脚本没有单独做图文教程，自己摸索下就会了。备用脚本卸载命令：./shadowsocksR.sh uninstall**
+
+***
+
+yum -y install wget
+
+wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
+
+chmod +x shadowsocksR.sh
+
+./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
+
+***
 
 ———————————————————代码分割线————————————————
 
