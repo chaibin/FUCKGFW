@@ -132,7 +132,7 @@ vultr注册地址： http://www.vultr.com/?ref=7613018 （全球15个服务器�
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
 
-**CentOS6/Debian6/Ubuntu14 ShadowsocksR一键部署管理脚本（2018.11.21更新）：**
+**CentOS6/Debian6/Ubuntu14 ShadowsocksR一键部署管理脚本：**
 
 **脚本一（2018.11.20更新）**
 
@@ -162,7 +162,7 @@ chmod +x shadowsocksR.sh
 
 ———————————————————代码分割线————————————————
 
-复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装，以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：bash ssr.sh
+复制上面的**脚本一**代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装，以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：bash ssr.sh
 
 ![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/8.png)
 
