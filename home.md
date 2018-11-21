@@ -40,6 +40,9 @@
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://gitlab.com/Alvin9999/free/wikis/freegate%E5%92%8Cwujie%E7%89%88)（2018年11月19日更新WuJie版）
 
+[谷歌浏览器低内核SkyZip版](https://gitlab.com/Alvin9999/free/wikis/skyzip%E7%89%88
+)（2018年9月23日更新版本）
+
 [火狐翻墙浏览器](https://gitlab.com/Alvin9999/free/wikis/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年11月19日更新WuJie版）
 
 [直翻通道](https://gitlab.com/Alvin9999/free/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年7月11日更新YouTube代理地址）
