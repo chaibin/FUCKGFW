@@ -30,7 +30,7 @@
 [谷歌浏览器低内核GoAgent ipv6版](https://gitlab.com/Alvin9999/free/wikis/goagent-ipv6%E7%89%88) （2018年6月19日云端更新google ipv6 ip）
 
 
-[谷歌浏览器低内核v2ray版](https://gitlab.com/Alvin9999/free/wikis/v2ray%E7%89%88) （2018年11月21日云端更新v2ray配置文件）
+[谷歌浏览器低内核v2ray版](https://gitlab.com/Alvin9999/free/wikis/v2ray%E7%89%88) （2018年11月21日云端更新v2ray配置信息）
 
 [谷歌浏览器低内核SSR版](https://gitlab.com/Alvin9999/free/wikis/ssr%E7%89%88) （2018年6月30日云端更新ip）
 
