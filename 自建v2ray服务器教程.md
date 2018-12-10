@@ -1,5 +1,3 @@
-**2018.12.9：增加破解版锐速加速教程。**
-
 **2018.9.1更新：vultr官方进行了调整，2.5美元套餐只提供ipv6，如果你用不了ipv6，那么你可以买3.5美元的套餐。**
 
 ***
@@ -14,14 +12,14 @@
 
 第二步：一键部署VPS服务器
 
-第三步：一键加速VPS服务器 （谷歌BBR加速，推荐）
+第三步：一键加速VPS服务器 
 
 **【前言】**
 
 **v2ray的优势**：v2ray支持的传输方式有很多，包括：普通TCP、HTTP伪装、WebSocket流量、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量，不同的传输方式其效果会不同，有可能会遇到意想不到的效果哦！当然国内不同的地区、不同的网络环境，效果也会不同，所以具体可以自己进行测试。现在v2ray客户端也很多了，有windows、MAC、linux和安卓版。
 
 如果想搭建ss/ssr，可以参考
-[自建ss/ssr服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
+[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
 **注意：搭建ss/ssr脚本和搭建v2ray脚本不要在同一台vps上使用，以免互相干扰！如果ss/ssr和v2ray都想搭建，可以用两台vps，一台搭建ss/ssr，另外一台搭建v2ray。**
 
@@ -31,17 +29,17 @@
 
 VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、稳定且性价比高，按小时计费，能够随时开通和删除服务器，新服务器即是新ip。
 
-vultr注册地址： http://www.vultr.com/?ref=7613018 （全球15个服务器位置可选，KVM框架，最低2.5美元/月。如果以后这个vultr注册地址被墙了，那么就用翻墙软件打开，或者用[ss/ssr免费账号](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)） 
+vultr注册地址：https://www.vultr.com/?ref=7613018  （全球15个服务器位置可选，KVM框架，最低2.5美元/月。）如果以后这个vultr注册地址被墙了，那么就用翻墙软件打开，或者用[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 <a href="https://www.vultr.com/?ref=7613018"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
 虽然是英文界面，但是现在的浏览器都有网页翻译功能，鼠标点击右键，选择网页翻译即可翻译成中文。
 
-注册并邮件激活账号，充值后即可购买服务器。充值方式是paypal（首选）或支付宝，使用paypal有银行卡（包括信用卡）即可。paypal注册地址：https://www.paypal.com （paypal是国际知名的第三方支付服务商，注册一下账号，绑定银行卡即可购买国外商品）
+注册并邮件激活账号，充值后即可购买服务器。充值方式是支付宝或paypal，使用paypal有银行卡（包括信用卡）即可。paypal注册地址：https://www.paypal.com （paypal是国际知名的第三方支付服务商，注册一下账号，绑定银行卡即可购买国外商品）
 
-2.5美元/月的服务器配置信息：单核   512M内存  20G SSD硬盘   带宽峰值100M    500G流量/月   (仅ipv6)
+2.5美元/月的服务器配置信息：单核   512M内存  20G SSD硬盘   带宽峰值100M    500G流量/月   (**仅ipv6**)
 
-3.5美元/月的服务器配置信息：单核   512M内存  20G SSD硬盘   带宽峰值100M    500G流量/月   
+3.5美元/月的服务器配置信息：单核   512M内存  20G SSD硬盘   带宽峰值100M    500G流量/月    (**推荐**) 
 
 5美元/月的服务器配置信息：  单核   1G内存    25G SSD硬盘   带宽峰值100M    1000G流量/月  
  
@@ -62,36 +60,36 @@ vultr注册地址： http://www.vultr.com/?ref=7613018 （全球15个服务器�
 
 **账号充值如图**：
 
-![](https://gitlab.com/Alvin9999/pac2/raw/master/pp100.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp100.png)
 
-![](https://gitlab.com/Alvin9999/pac2/raw/master/pp101.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp101.png)
 
 
 **开通服务器步骤如图**：
 
-![](https://gitlab.com/Alvin9999/crp_up/raw/master/pac教程01.png)
+![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程01.png)
 
-![](https://gitlab.com/Alvin9999/crp_up/raw/master/pac教程02.png)
+![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程02.png)
 
-![](https://gitlab.com/Alvin9999/crp_up/raw/master/ss/Debian1.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian1.png)
 
 
 ### 为了配合v2ray一键搭建脚本，vps操作系统推荐选择Debian 8，其它支持系统有Debian 7、Ubuntu 14、Ubuntu 16、CentOS 7。（注意：不支持centos 6系统！centos 6是ss/ssr搭建教程的推荐系统，但centos 6不支持v2ray一键搭建脚本！）
 
 **开通服务器时，当出现了ip，不要立马去ping或者用xshell去连接，再等5分钟之后，有个缓冲时间。完成购买后，找到系统的密码记下来，部署服务器时需要用到。vps系统（推荐Debian 8）的密码获取方法如下图：**
 
-![](https://gitlab.com/Alvin9999/crp_up/raw/master/pac教程05.png)
+![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian2.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian2.png)
 
 
 **删掉服务器步骤如下图**：
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/de4.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de4.PNG)
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/de2.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de2.PNG)
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/de5.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de5.png)
 
 一个被墙ip的vps被删掉后，其ip并不会消失，会随机分配给下一个在这个服务器位置新建服务器的人，这就是为什么开新服务器会有一定几率开到被墙的ip。被墙是指在国内地区无法ping通服务器，但在国外是可以ping通的，vultr是面向全球服务，如果这个被墙ip被国外的人开到了，它是可以被正常使用的，半年或1年后这个被墙的ip可能会被国内防火墙解封，那么这就是一个良性循环。
 
@@ -115,23 +113,23 @@ vultr注册地址： http://www.vultr.com/?ref=7613018 （全球15个服务器�
 
 下载windows xshell软件并安装后，打开软件
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/xshell11.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell11.png)
 
 选择文件，新建
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/xshell12.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell12.png)
 
 随便取个名字，然后把你的服务器ip填上
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/xshell13.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell13.png)
 
 连接国外ip即服务器时，软件会先后提醒你输入用户名和密码，用户名默认都是root，密码是你购买的服务器系统的密码。
 
 ### 如果xshell连不上服务器，没有弹出让你输入用户名和密码的输入框，表明你开到的ip是一个被墙的ip，遇到这种情况，重新开新的服务器，直到能用xshell连上为止，耐心点哦！如果同一个地区开了多台服务器还是不行的话，可以换其它地区。
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/xshell14.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell14.png)
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/xshell2.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/xshell2.png)
 
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
@@ -152,55 +150,55 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装，以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：v2ray
 
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian3.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian3.png)
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian4.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian4.png)
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian5.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian5.png)
 
 如上图，输入快捷管理命令v2ray后，开始进行v2ray服务端配置。
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian7.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian7.png)
 
 如上图，输入数字2进行更改配置，共有6个子选项，包括：更改UUID、更改主端口、更改加密方式、更改传输方式、更改TLS设置（有域名才行）、更改广告拦截功能。（更改TLS设置和更改广告拦截功能不用设置）
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian8.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian8.png)
 
 如上图，输入数字1来更改新的UUID号，弹出提示后，输入字母y来确认。
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian9.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian9.png)
 
 修改UUID号，界面会回到v2ray主界面，重新输入2进入更改配置选项，在输入数字2来更改主端口，主端口范围40～65535，理论上可以任意设置，但不要以0开头！
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian10.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian10.png)
 
 重新进入更改配置选项，输入数字3来更改加密方式，加密方式有4种，最后1种为不加密。
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian11.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian11.png)
 
 **接着，进行传输方式的设置，传输方式共有7种，这个配置对v2ray的速度起着很大的作用，具体哪个最适合你那里的网络环境，需要你自己来尝试。**
 
 **注意：普通TCP、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量可直接设置、不需要域名，HTTP伪装和WebSocket流量需要你有域名，且域名绑定了你的vps服务器ip。**
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian12.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian12.png)
 
 进行了更改配置的设置后，输入数字3可以查看自己设置的v2ray信息。
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian13.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian13.png)
 
 **最后一步很关键，那就是启动服务，进入主界面后，输入数字1，然后输入1启动v2ray服务。以后，每次你更改配置或重启vps服务器后都要进行启动服务，请牢记！**
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian14.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian14.png)
 
 采用xshell软件，可以很方便的将配置文件导出，方便配置v2ray客户端。选择数字4，出现提示后，输入字母y，选择电脑路径即可。
 
 > 如果你没有用xshell软件，那么无法使用脚本的文件导出功能。vps服务器里面的config.json配置文件存放路径为 /etc/v2ray/config.json MAC电脑用户可以用WinSCP MAC版连接vps服务器，然后根据路径把config.json文件复制出来。
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian15.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian15.png)
 
 **下面这个config.jason文件就是我们刚刚配置的v2ray文件，如果以后更改了v2ray服务端信息，那么你需要重新导出config.jason文件。**
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian16.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian16.png)
 
 **因为一键搭建v2ray脚本是一个循环脚本，当你配置结束后不会自动退出快捷管理命令，如果你想退出界面进行其它操作，可以同时按下键盘上的ctrl键和字母z键。**
 
@@ -210,48 +208,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 
 **第三步：一键加速VPS服务器**
 
-
-**2018年12月9日增加破解版锐速加速教程。**
-
-**【破解版锐速加速教程】**
-
-此加速教程为破解版锐速加速,Vultr的服务器centos6系统官方进行了更新，导致目前**不支持BBR的部署**，**但锐速应该是可以部署的**，故增加了此部署脚本，加速后对速度的提升很明显，所以推荐部署加速脚本。该加速方法是开机自动启动，部署一次就可以了。
-
-**第一步，先更换服务器内核：**
-
-yum -y install wget
-
-wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh
-bash ruisu.sh
-
-**完成后会重启，2分钟后重新连接服务器，连上后开始第二步的操作。**
-
-**第二步，一键安装锐速：**
-
-wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
-
-卸载加速代码命令为：
-
-chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
-
-但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F2.PNG)
-
-提示没有完全匹配的内核,随便选一个内核就行,按照提示来输入数字,按回车键即可
-
-锐速安装成功标志如下：
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F3.png)
-
-出现running字样即可!
-
-
-***
-
 **【谷歌BBR加速教程】**
-
-**vultr服务器的centos6系统不可用，用上面的锐速就可以了。**
 
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 
@@ -265,19 +222,19 @@ chmod +x bbr.sh
 
 复制并粘贴代码后，按回车键确认
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/18.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/18.png)
 
 如下图提示，按任意键继续部署
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/19.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/19.png)
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian19.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian19.png)
 
 整个部署过程需要2～5分钟，最后输入reboot来重启服务器，确保加速生效，bbr加速脚本是开机自动启动，装一次就可以了。
 
 服务器重启成功并重新连接服务器后，输入命令lsmod | grep bbr  如果出现tcp_bbr字样表示bbr已安装并启动成功。如图：
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/demo/tcp_bbr.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/tcp_bbr.PNG)
 
 
 ### 需要注意的是：不管是重启服务器，还是以后想修改之前vps里面的v2ray配置信息，当你重启好服务器或者修改好了v2ray配置信息后，都需要启动v2ray服务端。方式是：输入v2ray，选择1，然后选择1（启动服务）。
@@ -292,13 +249,15 @@ chmod +x bbr.sh
 
 以v2ray windows版为例：
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian17.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian17.png)
 
 下载windows版客户端后解压出来，然后替换config.json配置文件。
 
-![](https://gitlab.com/Alvin9999/PAC/raw/master/ss/Debian18.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian18.png)
 
 运行上图中的v2ray.exe启动软件，浏览器代理设置成Socks(5) 127.0.0.1 和1080 即可通过v2ray代理上网。
+
+> 本教程可以转载。
 
 ***
 
