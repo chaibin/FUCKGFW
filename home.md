@@ -27,7 +27,6 @@
 
 [ipv6开启方法](https://gitlab.com/Alvin9999/free/wikis/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2018年6月22日更新方法）
 
-[谷歌浏览器低内核GoProxy ipv6版](https://gitlab.com/Alvin9999/free/wikis/goproxy-ipv6%E7%89%88) （2018年6月19日云端更新google ipv6 ip）
 
 [谷歌浏览器低内核GoAgent ipv6版](https://gitlab.com/Alvin9999/free/wikis/goagent-ipv6%E7%89%88) （2018年12月20日云端更新GoAgent ipv6）
 
@@ -43,6 +42,8 @@
 
 [谷歌浏览器低内核SkyZip版](https://gitlab.com/Alvin9999/free/wikis/skyzip%E7%89%88
 )（2018年9月23日更新版本）
+
+[谷歌浏览器低内核GoProxy ipv6版](https://gitlab.com/Alvin9999/free/wikis/goproxy-ipv6%E7%89%88) （2018年6月19日云端更新google ipv6 ip）
 
 [火狐翻墙浏览器](https://gitlab.com/Alvin9999/free/wikis/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年12月20日云端更新GoAgent ipv6）
 
