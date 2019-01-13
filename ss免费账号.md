@@ -26,7 +26,7 @@ VPS推荐：
 
 禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！为保证每个用户都能获得一定的带宽资源，**单个用户限速400kb/s**。以下账号SSR客户端和SS客户端都能使用。
 
-**2019年1月11日**：更新账号端口。建议每个有条件的人都学习一下自己搭建服务器，有备无患。
+**2019年1月13日**：更新账号密码。建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。
 
 **视频推荐**
 
@@ -34,7 +34,7 @@ YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjA
 
 2019年神韵晚会超清预告片[点击下载](http://108.61.224.82:8000/f/ddd18239a6/)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4018.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4020.PNG)
 
 ***
 
