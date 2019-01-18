@@ -15,9 +15,9 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 VPS推荐：
 
-[Vultr](https://www.vultr.com/?ref=7613018) （vultr全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。）
+[Vultr](https://www.vultr.com/?ref=7777564-4F) （vultr在2019年1月的最新活动，针对新用户，直接送50美元！vultr全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。）
 
-<a href="https://www.vultr.com/?ref=7613018"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
+<a href="https://www.vultr.com/?ref=7777564-4F"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
@@ -26,7 +26,7 @@ VPS推荐：
 
 禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！为保证每个用户都能获得一定的带宽资源，**单个用户限速400kb/s**。以下账号SSR客户端和SS客户端都能使用。
 
-**2019年1月16日**：更新账号密码。建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。
+**2019年1月16日**：更新账号密码。建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。vultr在2019年1月的最新活动，针对新用户，直接送50美元！
 
 **视频推荐**
 
