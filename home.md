@@ -17,15 +17,30 @@
 
 **温馨提醒**：由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。不要纠结于某一款软件，如果已经按照使用说明文档把该更新的都更新了，该排除的因素都排除了，还是不能翻墙的话，此时最好的选择就是换其它类型的软件。
 
-**2018年12月20日公告：关于GoProxy ipv6版和GoAgent ipv6版出现“502 Bad Gateway This Host header is not served from this network address. Due to an infrastructure change, this request cannot be processed.” 无法使用，这个问题暂时无法解决，需要观察并研究，可以暂时换用其它类型的软件。**
+**2019年1月18日公告**：ipv6版国内大多数地区已失效，如果你无法使用ipv6版，请更换其它类型的软件。
 
-**2018年12月20日公告**：云端更新GoAgent ipv6，按照使用说明运行ip更新文件即可同步。
+**推荐YouTube视频频道**：[历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
 
-**2018年12月27日公告**：云端更新v2ray配置信息，按照使用说明运行ip更新文件即可同步。
+
+### 预告：新唐人元宵节对大陆播出神韵晚会
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/wanhui.jpg)
+
+2019年神韵晚会超清预告片[在线观看或下载](http://108.61.224.82:8000/f/ddd18239a6/)
+
+五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌。神韵艺术团自2006年在全球巡演以来，迄今逾百万人观看，受到各国民众的热烈欢迎，爆满加坐成常态。
+
+**大陆网民观看方法**：仅能通过翻墙软件自由门或无界观看，动态网的左上角有直播地址。机不可失喔！
+
+神韵晚会播出时间：北京时间
+
+2月19日(周二)晚上8:00-11:00
+
+2月19日(周二)晚上11:00-凌晨2:00
 
 ***
 
-[谷歌浏览器69高内核版](https://gitlab.com/Alvin9999/free/wikis/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年12月27日云端更新v2ray配置信息）
+[谷歌浏览器69高内核版](https://gitlab.com/Alvin9999/free/wikis/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年2月16日更新无界版本至19.02,更新自由门版本至7.66）
 
 [ipv6开启方法](https://gitlab.com/Alvin9999/free/wikis/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2018年6月22日更新方法）
 
@@ -40,14 +55,14 @@
 
 [谷歌浏览器低内核赛风版](https://gitlab.com/Alvin9999/free/wikis/%E8%B5%9B%E9%A3%8E%E7%89%88) （2018年3月3日更新版本）
 
-[谷歌浏览器低内核FreeGate和WuJie版](https://gitlab.com/Alvin9999/free/wikis/freegate%E5%92%8Cwujie%E7%89%88)（2018年11月25日更新无界版本至18.06）
+[谷歌浏览器低内核FreeGate和WuJie版](https://gitlab.com/Alvin9999/free/wikis/freegate%E5%92%8Cwujie%E7%89%88)（2019年2月16日更新无界版本至19.02,更新自由门版本至7.66）
 
 [谷歌浏览器低内核SkyZip版](https://gitlab.com/Alvin9999/free/wikis/skyzip%E7%89%88
 )（2018年9月23日更新版本）
 
 [谷歌浏览器低内核GoProxy ipv6版](https://gitlab.com/Alvin9999/free/wikis/goproxy-ipv6%E7%89%88) （2018年6月19日云端更新google ipv6 ip）
 
-[火狐翻墙浏览器](https://gitlab.com/Alvin9999/free/wikis/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年12月27日云端更新v2ray配置信息）
+[火狐翻墙浏览器](https://gitlab.com/Alvin9999/free/wikis/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年2月16日更新无界版本至19.02,更新自由门版本至7.66）
 
 [直翻通道](https://gitlab.com/Alvin9999/free/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年7月11日更新YouTube代理地址）
 
