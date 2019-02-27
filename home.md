@@ -59,7 +59,7 @@
 
 [苹果手机翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2019年2月20日更新）
 
-[MAC翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91mac%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年12月25日删除无效方法）
+[MAC翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91mac%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2019年2月27日更新）
 
 [平板电脑翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2018年2月4日更新）
 
