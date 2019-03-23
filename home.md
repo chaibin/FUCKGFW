@@ -19,8 +19,8 @@
 
 **2019年1月18日公告**：ipv6版国内大多数地区已失效，如果你无法使用ipv6版，请更换其它类型的软件。
 
-**推荐YouTube视频频道**：[历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
-
+**推荐YouTube视频频道**：[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
+ [历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) 
 ***
 
 [谷歌浏览器69高内核版](https://gitlab.com/Alvin9999/free/wikis/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年2月24日云端更新SSR版和v2ray版配置信息，2019年2月16日更新无界版本至19.02,更新自由门版本至7.66）
