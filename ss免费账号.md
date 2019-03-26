@@ -26,13 +26,13 @@ VPS推荐：
 
 禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！为保证每个用户都能获得一定的带宽资源，**单个用户限速400kb/s**。以下账号SSR客户端和SS客户端都能使用。
 
-**2019年3月18日**：更新账号端口。建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。vultr在2019年1月的最新活动，针对新用户，直接送50美元！
+**2019年3月26日**：更新账号端口。建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。vultr在2019年1月的最新活动，针对新用户，直接送50美元！
 
 **视频推荐**
 
 YouTube频道：[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) 
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4036.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4038.PNG)
 
 ***
 
