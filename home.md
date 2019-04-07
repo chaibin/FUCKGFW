@@ -17,19 +17,20 @@
 
 **温馨提醒**：由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。不要纠结于某一款软件，如果已经按照使用说明文档把该更新的都更新了，该排除的因素都排除了，还是不能翻墙的话，此时最好的选择就是换其它类型的软件。
 
-**2019年1月18日公告**：ipv6版国内大多数地区已失效，如果你无法使用ipv6版，请更换其它类型的软件。
+**2019年4月7日公告**：发布新软Brook版。
 
 **推荐YouTube视频频道**：[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
  [历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) 
 ***
 
-[谷歌浏览器69高内核版](https://gitlab.com/Alvin9999/free/wikis/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年4月5日云端更新v2ray版和SSR版配置信息，对速度进行了优化处理）
+[谷歌浏览器69高内核版](https://gitlab.com/Alvin9999/free/wikis/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年4月7日发布新软Brook版；2019年4月5日云端更新v2ray版和SSR版配置信息，对速度进行了优化处理）
 
 
 [谷歌浏览器低内核v2ray版](https://gitlab.com/Alvin9999/free/wikis/v2ray%E7%89%88) （2019年4月5日云端更新v2ray配置信息，对速度进行了优化处理）
 
-[谷歌浏览器低内核SSR版](https://gitlab.com/Alvin9999/free/wikis/ssr%E7%89%88) （2019年4月5日云端更新v2ray配置信息，对速度进行了优化处理）
+[谷歌浏览器低内核Brook版](https://gitlab.com/Alvin9999/free/wikis/Brook%E7%89%88) （2019年4月7日发布）
 
+[谷歌浏览器低内核SSR版](https://gitlab.com/Alvin9999/free/wikis/ssr%E7%89%88) （2019年4月5日云端更新v2ray配置信息，对速度进行了优化处理）
 
 [谷歌浏览器低内核赛风版](https://gitlab.com/Alvin9999/free/wikis/%E8%B5%9B%E9%A3%8E%E7%89%88) （2018年3月3日更新版本）
 
@@ -40,7 +41,7 @@
 
 [谷歌浏览器低内核GoAgent ipv6版](https://gitlab.com/Alvin9999/free/wikis/goagent-ipv6%E7%89%88) （2018年12月20日云端更新GoAgent ipv6）
 
-[火狐翻墙浏览器](https://gitlab.com/Alvin9999/free/wikis/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年4月5日云端更新v2ray版和SSR版配置信息，对速度进行了优化处理）
+[火狐翻墙浏览器](https://gitlab.com/Alvin9999/free/wikis/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年4月7日发布新软Brook版；2019年4月5日云端更新v2ray版和SSR版配置信息，对速度进行了优化处理）
 
 [直翻通道](https://gitlab.com/Alvin9999/free/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年7月11日更新YouTube代理地址）
 
