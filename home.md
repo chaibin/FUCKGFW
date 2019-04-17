@@ -46,11 +46,11 @@
 
 [谷歌镜像](https://gitlab.com/Alvin9999/free/wikis/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2018年10月28日更新）
 
-[自建Brook服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAbrook%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2019年4月10日发布，新的翻墙方式）
-
 [自建SS/SSR服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2018年11月20日更新SS/SSR部署脚本）
 
 [自建v2ray服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2019年2月11日更新一键部署v2ray脚本）
+
+[自建Brook服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAbrook%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2019年4月10日发布，新的翻墙方式）
 
 [安卓手机版](https://gitlab.com/Alvin9999/free/wikis/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2018年6月24日更新聚缘阁安卓版）
 
