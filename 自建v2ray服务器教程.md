@@ -29,6 +29,7 @@
 VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、稳定且性价比高，按小时计费，能够随时开通和删除服务器，新服务器即是新ip。
 
 vultr注册地址：https://www.vultr.com/?ref=7777564-4F  （vultr2019年1月的活动，新用户赠送50美元，有效期1个月。全球15个服务器位置可选，KVM框架，最低2.5美元/月。）
+
 <a href="https://www.vultr.com/?ref=7777564-4F"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
 虽然是英文界面，但是现在的浏览器都有网页翻译功能，鼠标点击右键，选择网页翻译即可翻译成中文。
