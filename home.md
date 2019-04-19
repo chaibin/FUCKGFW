@@ -52,7 +52,7 @@
 
 [自建Brook服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAbrook%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2019年4月10日发布，新的翻墙方式）
 
-[安卓手机版](https://gitlab.com/Alvin9999/free/wikis/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2018年4月9日更新无界一点通版本至4.3）
+[安卓手机版](https://gitlab.com/Alvin9999/free/wikis/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2018年6月24日更新聚缘阁安卓版）
 
 [苹果手机翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2019年2月20日更新）
 
