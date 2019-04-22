@@ -280,6 +280,8 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 ### 需要注意的是：不管是重启服务器，还是以后想修改之前vps里面的v2ray配置信息，当你重启好服务器或者修改好了v2ray配置信息后，都需要启动v2ray服务端。方式是：输入v2ray，选择1，然后选择1（启动服务）。
 
+***
+
 【v2ray客户端下载】
 
 **2019年3月20日更新。**
@@ -305,7 +307,6 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 运行上图中的v2ray.exe启动软件，浏览器代理设置成Socks(5) 127.0.0.1 和1080 即可通过v2ray代理上网。
 
-> 本教程可以转载。
 
 ***
 
