@@ -1,4 +1,4 @@
-**2019.4.10：第一次发布自建brook服务器教程。这是一种新的翻墙方式，根据网友反馈，速度比v2ray和ssr要快！值得尝试。**
+**2019年4月23日：增加锐速加速教程。**
 
 ***
 
@@ -17,7 +17,6 @@
 Brook是一款新兴的代理软件，其版本横垮Windows、安卓、iOS、MacOS、Linux等多个系统平台，功能类似于我们经常使用的Shadowsocks/ShadowsocksR。Brook 的目标是简单易用、傻瓜化、速度快（新协议）。通过在服务器端安装Brook服务器端，同时在本地设备中使用Brook客户端，两者成功连接之后，可以为我们提供科学上网服务。如果你想在SS/SSR/V2ray之外，尝试一种新的代理软件，那么Brook是一个不错的选择！
 
 ***
-
 **第一步：购买VPS服务器**
 
 VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、稳定且性价比高，按小时计费，能够随时开通和删除服务器，新服务器即是新ip。
@@ -48,7 +47,6 @@ vultr注册地址： https://www.vultr.com/?ref=7777564-4F （vultr2019年1月�
 
 
 计费从你开通服务器开始算的，不管你有没有使用，即使服务器处于关机状态仍然会计费，如果你没有开通服务器就不算。比如你今天早上开通了服务器，但你有事情，晚上才部署，那么这段时间是会计费的。同理，如果你早上删掉服务器，第二天才开通新的服务器，那么这段时间是不会计费的。在账号的Billing选项里可以看到账户余额。
-
 
 温馨提醒：同样的服务器位置，不同的宽带类型和地区所搭建的账号的翻墙速度会不同，这与中国电信、中国联通、中国移动国际出口带宽和线路不同有关，所以以实测为准。可以先选定一个服务器位置来按照教程进行搭建，熟悉搭建方法，当账号搭建完成并进行了bbr加速后，测试下速度自己是否满意，如果满意那就用这个服务器位置的服务器。如果速度不太满意，就一次性开几台不同的服务器位置的服务器，然后按照同样的方法来进行搭建并测试，选择最优的，之后把其它的服务器删掉，按小时计费测试成本可以忽略。
 
@@ -184,7 +182,9 @@ chmod +x brook.sh
 
 **第三步：一键加速VPS服务器**
 
-**【谷歌BBR加速教程】**
+**总共有2种加速方法，锐速加速和bbr加速，选择1种。**
+
+**【加速教程1：谷歌BBR加速教程】**
 
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 
@@ -227,6 +227,46 @@ chmod +x bbr.sh
 停止firewall命令：systemctl stop firewalld.service
 
 禁止firewall开机启动命令：systemctl disable firewalld.service 
+
+***
+
+**【加速教程2：破解版锐速加速教程】**
+
+**第一步，先更换服务器内核（脚本只支持centos系统，其它系统可以直接尝试第二步）**
+
+yum -y install wget
+
+wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh && bash ruisu.sh
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs1.PNG)
+
+不动的时候敲回车键，在上图时需要多等一会儿。
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs2.PNG)
+
+出现上图时表示已成功替换内核并服务器自动重启。
+
+**完成后会重启，2分钟后重新连接服务器，连上后开始第二步的操作。**
+
+**第二步，一键安装锐速**
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
+
+卸载加速代码命令为：
+
+chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
+
+但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F2.PNG)
+
+提示没有完全匹配的内核,随便选一个内核就行,按照提示来输入数字,按回车键即可
+
+锐速安装成功标志如下：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F3.png)
+
+出现running字样即可!
 
 ***
 
