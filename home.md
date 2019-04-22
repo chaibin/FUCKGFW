@@ -17,8 +17,6 @@
 
 **温馨提醒**：由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。不要纠结于某一款软件，如果已经按照使用说明文档把该更新的都更新了，该排除的因素都排除了，还是不能翻墙的话，此时最好的选择就是换其它类型的软件。
 
-**2019年4月7日公告**：发布新软Brook版，新的翻墙方式。欢迎尝试并反馈效果。
-
 **推荐YouTube视频频道**：[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
  [历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) 
 ***
@@ -48,9 +46,9 @@
 
 [自建SS/SSR服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2018年11月20日更新SS/SSR部署脚本）
 
-[自建v2ray服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2019年2月11日更新一键部署v2ray脚本）
+[自建v2ray服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2019年4月23日增加锐速加速教程）
 
-[自建Brook服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAbrook%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2019年4月10日发布，新的翻墙方式）
+[自建Brook服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAbrook%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2019年4月23日增加锐速加速教程）
 
 [安卓手机版](https://gitlab.com/Alvin9999/free/wikis/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2018年6月24日更新聚缘阁安卓版）
 
