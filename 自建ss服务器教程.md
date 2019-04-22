@@ -1,4 +1,4 @@
-**2019.1.18：vultr2019年1月的活动，新用户赠送50美元，有效期1个月。**
+**2019.1.18：vultr2019年1月的最新活动，新用户赠送50美元，有效期1个月。**
 
 ***
 
@@ -9,6 +9,7 @@
 第二步：一键部署VPS服务器
 
 第三步：一键加速VPS服务器 
+
 
 ***
 
@@ -228,7 +229,7 @@ chmod +x shadowsocksR.sh
 
 此加速教程为破解版锐速加速,Vultr的服务器centos6系统官方进行了更新，导致目前**不支持BBR的部署**，**但锐速应该是可以部署的**，故增加了此部署脚本，加速后对速度的提升很明显，所以推荐部署加速脚本。该加速方法是开机自动启动，部署一次就可以了。
 
-**第一步，先更换服务器内核：**
+**第一步，先更换服务器内核（脚本只支持centos系统，其它系统可以直接尝试第二步）**
 
 yum -y install wget
 
@@ -244,7 +245,7 @@ wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh && bash ruisu.sh
 
 **完成后会重启，2分钟后重新连接服务器，连上后开始第二步的操作。**
 
-**第二步，一键安装锐速：**
+**第二步，一键安装锐速**
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
 
@@ -311,7 +312,7 @@ chmod +x bbr.sh
 
 停止firewall命令：systemctl stop firewalld.service
 
-禁止firewall开机启动命令：systemctl disable firewalld.service
+禁止firewall开机启动命令：systemctl disable firewalld.service 
 
 ***
 
