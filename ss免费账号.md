@@ -26,7 +26,7 @@ VPS推荐：
 
 免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以自己搭建服务器。[自建ss/ssr服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 
 
-禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！为保证每个用户都能获得一定的带宽资源，**单个用户限速400kb/s**。以下账号SSR客户端和SS客户端都能使用。
+禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！为保证每个用户都能获得一定的带宽资源，**单个用户限速300～400kb/s**。以下账号SSR客户端和SS客户端都能使用。
 
 **2019年4月28日：更新端口、增加账号。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。**
 
@@ -34,7 +34,7 @@ VPS推荐：
 
 YouTube频道：[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) 
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4068.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4070.PNG)
 
 ***
 
