@@ -50,9 +50,9 @@
 
 [自建Brook服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAbrook%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2019年4月23日增加锐速加速教程）
 
-[安卓手机版](https://gitlab.com/Alvin9999/free/wikis/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2018年6月24日更新聚缘阁安卓版）
+[苹果手机翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2019年5月3日更新教程，在App Store里直接更改apple ID的国家）
 
-[苹果手机翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2019年2月20日更新）
+[安卓手机版](https://gitlab.com/Alvin9999/free/wikis/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2018年6月24日更新聚缘阁安卓版）
 
 [MAC翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91mac%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2019年2月27日更新）
 
