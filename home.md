@@ -22,11 +22,11 @@
 
 ***
 
-[谷歌浏览器69高内核版](https://gitlab.com/Alvin9999/free/wikis/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年5月1日云端更新Brook版配置信息；2019年4月28日云端更新SSR版配置信息）
+[谷歌浏览器69高内核版](https://gitlab.com/Alvin9999/free/wikis/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年5月4日云端更新v2ray版配置信息；2019年5月1日云端更新Brook版配置信息；2019年4月28日云端更新SSR版配置信息）
 
 [谷歌浏览器低内核Brook版](https://gitlab.com/Alvin9999/free/wikis/Brook%E7%89%88) （2019年5月1日更新版本，解决扩展无法正常打开造成无法使用的问题）
 
-[谷歌浏览器低内核v2ray版](https://gitlab.com/Alvin9999/free/wikis/v2ray%E7%89%88) （2019年4月5日云端更新v2ray配置信息，对速度进行了优化处理）
+[谷歌浏览器低内核v2ray版](https://gitlab.com/Alvin9999/free/wikis/v2ray%E7%89%88) （2019年5月4日云端更新v2ray配置信息，对速度进行了优化处理）
 
 [谷歌浏览器低内核SSR版](https://gitlab.com/Alvin9999/free/wikis/ssr%E7%89%88) （2019年4月28日云端更新配置信息）
 
@@ -39,7 +39,7 @@
 
 [谷歌浏览器低内核GoAgent ipv6版](https://gitlab.com/Alvin9999/free/wikis/goagent-ipv6%E7%89%88) （2018年12月20日云端更新GoAgent ipv6）
 
-[火狐翻墙浏览器](https://gitlab.com/Alvin9999/free/wikis/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年5月1日云端更新Brook版配置信息；2019年4月28日云端更新SSR版配置信息）
+[火狐翻墙浏览器](https://gitlab.com/Alvin9999/free/wikis/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年5月4日云端更新v2ray版配置信息；2019年5月1日云端更新Brook版配置信息；2019年4月28日云端更新SSR版配置信息）
 
 [直翻通道](https://gitlab.com/Alvin9999/free/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年7月11日更新YouTube代理地址）
 
